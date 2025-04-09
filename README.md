@@ -69,7 +69,7 @@ PhoneCase/
 │   ├── templates/     # 模板图片
 │   └── output/        # 输出图片
 ├── docs/
-│   └── 需求文档.md     # 项目需求文档
+│   └── __requirements__.md     # 项目需求文档
 ├── src/
 │   ├── main.py           # 主程序入口
 │   ├── image_processor.py # 图像处理模块
